@@ -1,0 +1,15 @@
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\JobTitle.csproj.AssemblyReference.cache
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\JobTitle.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\JobTitle.AssemblyInfoInputs.cache
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\JobTitle.AssemblyInfo.cs
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\JobTitle.csproj.CoreCompileInputs.cache
+F:\visualstudio\rep\JobTitle\JobTitle\bin\Debug\net7.0\JobTitle.exe
+F:\visualstudio\rep\JobTitle\JobTitle\bin\Debug\net7.0\JobTitle.deps.json
+F:\visualstudio\rep\JobTitle\JobTitle\bin\Debug\net7.0\JobTitle.runtimeconfig.json
+F:\visualstudio\rep\JobTitle\JobTitle\bin\Debug\net7.0\JobTitle.dll
+F:\visualstudio\rep\JobTitle\JobTitle\bin\Debug\net7.0\JobTitle.pdb
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\JobTitle.dll
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\refint\JobTitle.dll
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\JobTitle.pdb
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\JobTitle.genruntimeconfig.cache
+F:\visualstudio\rep\JobTitle\JobTitle\obj\Debug\net7.0\ref\JobTitle.dll
